@@ -1,6 +1,4 @@
-Aquí está una página web detallada sobre dispositivos celulares con botones dinámicos, imágenes y textos informativos:
 
-```html
 <!DOCTYPE html>
 <html lang="es">
 <head>
